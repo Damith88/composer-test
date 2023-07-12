@@ -1,0 +1,17 @@
+{
+    "name": "jerome/test",
+    "description": "abc",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Damith Karunaratne",
+            "email": "damithuom@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jerome\\App\\": "src/"
+        }
+    }
+}
